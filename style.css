@@ -1,0 +1,72 @@
+h1{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 100px
+}
+h2{
+	color: #34C924;
+	font-family: 'Montserrat', sans-serif
+}
+body{
+	margin: 0px; 
+	color:#756C75;
+	background-color: #E8ECFE;
+
+}
+p{
+	font-size: 16px;
+	line-height: 20px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400; 
+
+}
+h3{
+	font-family: 'Open Sans', sans-serif
+}
+a{
+	font-size: 40px;
+}
+a{
+	color: #00A6DA;
+	text-decoration:none;
+	transition: 0.5s ease;
+}
+a:hover{
+	color: #34C924;
+}
+
+img.equipe{
+	width: 150px;
+	padding: 30px;
+	border: 2px solid grey;
+	border-radius: 30%; 
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+img.avantages{
+	width: 150px;
+	padding: 30px;
+	border: 2px solid grey;
+	border-radius: 30%; 
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+#header{
+	padding-bottom: 250px; 
+	padding-top: 100px;
+	background-image: url('image/background.jpg');
+	background-position: bottom; 
+	background-size: cover;
+}
+#header{
+color: white;
+
+}
+
+#header a{
+	color: white;
+}
+#footer{ 
+	background-color: white; 
+	border: 3px solid white;
+	margin: 0px;
+}
